@@ -1,0 +1,13 @@
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\bin\Debug\SOFM_KMAP.exe.config
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\bin\Debug\SOFM_KMAP.exe
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\bin\Debug\SOFM_KMAP.pdb
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\bin\Debug\SOFM.dll
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\bin\Debug\SOFM.pdb
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.csprojAssemblyReference.cache
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.Form1.resources
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.Properties.Resources.resources
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.csproj.GenerateResource.cache
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.csproj.CoreCompileInputs.cache
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.csproj.CopyComplete
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.exe
+D:\Documents\Aldren-Studies\Coded_Programs\C#_Projects\SOFM_KMAP\SOFM_KMAP\obj\Debug\SOFM_KMAP.pdb
