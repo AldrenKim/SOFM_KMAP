@@ -88,5 +88,8 @@
   <ItemGroup>
     <None Include="Data.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="gitignore.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
