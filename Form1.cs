@@ -92,7 +92,6 @@ namespace SOFM_KMAP
         {
             StreamReader sr = new StreamReader(fileName);
             richTextBox1.Text = sr.ReadToEnd();
-            Console.WriteLine("done");
         }
 
         private void CreateLegendGroup()
