@@ -62,7 +62,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(17, 19);
+            this.pictureBox1.Location = new System.Drawing.Point(15, 19);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(500, 500);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -101,7 +101,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(71, 20);
             this.textBox2.TabIndex = 4;
-            this.textBox2.Text = "0.000000001";
+            this.textBox2.Text = "0.0000001";
             // 
             // radioButton1
             // 
@@ -182,7 +182,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(71, 20);
             this.textBox3.TabIndex = 12;
-            this.textBox3.Text = "64";
+            this.textBox3.Text = "250";
             // 
             // label4
             // 
@@ -198,7 +198,7 @@
             this.groupBox2.Controls.Add(this.pictureBox1);
             this.groupBox2.Location = new System.Drawing.Point(243, 5);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(791, 543);
+            this.groupBox2.Size = new System.Drawing.Size(575, 549);
             this.groupBox2.TabIndex = 12;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Visualization";
@@ -224,7 +224,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1046, 560);
+            this.ClientSize = new System.Drawing.Size(836, 560);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox2);
